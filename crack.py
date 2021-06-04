@@ -1,18 +1,18 @@
 #!/usr/bin/python3
 #-*-coding:utf-8-*-
 
-#######################################################
-# Name                 : Recod                                                                                    #
-# File                      : crack.py                                                                                #
-# Author                : BOY HAMZAH                                                                      #
-# Github                 : https://github.com/Boy-Tolkit                                           #
-# Facebook           : https://www.facebook.com/SAYA.B0Y                            #
-# Fansfage            : https://www.facebook.com/106751971481203             #
-# Python version  : 2.9                                                                                          #
-#######################################################
-#                                       RATU ERROR PROJECTS                                           #
+##########################################################################
+# Name                 : Recod                                           #
+# File                 : crack.py                                        #
+# Author               : BOY HAMZAH                                      #
+# Github               : https://github.com/Boy-Tolkit                   #
+# Facebook             : https://www.facebook.com/SAYA.B0Y               #
+# Fansfage             : https://www.facebook.com/106751971481203        #
+# Python version       : 2.9                                             #
+##########################################################################
+#                            RATU ERROR PROJECTS                         #
 #    Thanks for : Angga,Azim,Dapunta,Rizal,Hamzah,Jesicca,Iqbal,Yayan    #
-#######################################################
+##########################################################################
 
 
    ############# JANGAN DI UBAH ASU NANTI ERROR! #############
