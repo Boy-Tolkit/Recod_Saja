@@ -503,7 +503,7 @@ class crackttl:
 				else:continue
 					
 			self.ko+=1
-			print("\r\033[0m%s-%s \033[0;92mOK %s \033[0;91mCP %s"%(self.ko,len(self.fl),len(self.ada),len(self.cp)), end='');sys.stdout.flush()
+			print("\r\033[0m%s-%s \033[0;92mRESULTS %s \033[0;91mCHECK %s"%(self.ko,len(self.fl),len(self.ada),len(self.cp)), end='');sys.stdout.flush()
 		except:
 			self.main(fl)
 
